@@ -1,0 +1,17 @@
+.nin-koskara{
+    color: blueviolet;
+}
+
+.items-list li{
+    background-color: beige;
+}
+
+.items-list img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.items-list h4{
+    font-weight: 800;
+}
